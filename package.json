@@ -1,0 +1,11 @@
+{
+  "name": "khs-yearbook-style-lab",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Yearbook style microlearning for GitHub Pages",
+  "scripts": {
+    "dev": "python3 preview.py",
+    "test": "node --test"
+  }
+}
